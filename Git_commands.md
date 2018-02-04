@@ -8,10 +8,15 @@ _Commands ive used so far_
 
 
 `git config --global user.name "user_name"`
+
 `git config --global user.email "email_id"`
+
 `git init Mytest` | Creates a local repository called "Mytest" 
+
 `git commit -m "somemessage"` | I think this just commits the changes to the local repository
+
 `git remote add origin https://github.com/user_name/Mytest.git` | Tells git to use the remote repository?
+
 `git push origin master` | Pretty sure this says to push the commits to the remote repositoy root/master (basically loads everything locally up to your online git repo)
 
 
