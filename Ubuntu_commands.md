@@ -1,7 +1,7 @@
 Ubuntu Commands
 ============
 
-_A list of  commonly used Git commands_
+_A list of  commonly used Ubuntu commands_
 
 
 --
@@ -11,6 +11,6 @@ _A list of  commonly used Git commands_
 | Command | Description |
 | ------- | ----------- |
 | `cd /` | Puts you to root |
-| `nano *filename` | creates/edit file |
+| `nano ` | creates/edit file |
 
 
