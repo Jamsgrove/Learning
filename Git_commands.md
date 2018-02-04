@@ -1,7 +1,11 @@
 Git Commands
 ============
 
-_A list of commonly used Git commands_
+_Top Links_
+https://git-scm.com/docs
+
+https://git-scm.com/book/en/v2/Git-Basics-Getting-a-Git-Repository
+
 
 
 _Commands ive used so far_
