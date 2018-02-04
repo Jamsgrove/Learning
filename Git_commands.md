@@ -3,6 +3,18 @@ Git Commands
 
 _A list of commonly used Git commands_
 
+
+_Commands ive used so far_
+
+
+`git config --global user.name "user_name"`
+
+`git config --global user.email "email_id"`
+
+
+
+
+
 --
 
 ### Getting & Creating Projects
